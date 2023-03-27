@@ -1,2 +1,2 @@
 # ameyaaashrith.github.io
-<h1> It doesn't mater </h1>
+<h1> It doesn't matter </h1>
